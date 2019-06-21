@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 gem 'autoprefixer-rails'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '>= 3.4.0'
 gem 'font-awesome-sass'
 gem 'html-proofer'
 gem 'jekyll'
