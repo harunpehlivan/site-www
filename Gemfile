@@ -2,7 +2,7 @@ source "http://rubygems.org"
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
-gem 'html-proofer'
+gem 'html-proofer', '>= 3.8.0'
 gem 'jekyll'
 gem 'jekyll-assets', '>=2.3.2', '<3.0.0'
 gem 'jekyll-toc'
